@@ -4,7 +4,7 @@ const fs = require('fs')
 const path = require('path')
 
 const message = {
-  title: chalk.yellow('Node.js Communiy Card'),
+  title: chalk.yellow('Node.js Community Card'),
   coreMesasge: 'Node.js Core:',
   coreLink: chalk.blue('https://github.com/nodejs/node'),
   gettingStartedMessage: 'Getting Started:',
